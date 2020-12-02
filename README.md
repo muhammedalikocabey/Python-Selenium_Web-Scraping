@@ -1,11 +1,11 @@
 # EN
+
 ## Retrieving Data from the Website (Scraping) with Python Selenium
 ## Creating Microsoft Most Popular Applications Dataset
 
+-----------------
 
-*** This script was used to pull the most popular Windows applications from Microsoft's site and create a dataset. ***
-
-
+**This script was used to pull the most popular Windows applications from Microsoft's site and create a dataset.**
 
 Element xpath-id selections will be specific as the desired data will be specific when capturing data through the website.
 For example, the element properties I use in [Microsoft's Most Popular Applications site](https://www.microsoft.com/en-us/store/most-popular/apps/pc)
@@ -21,18 +21,23 @@ You can find the element properties that are suitable for the website where you 
 
 To reach Dataset and more [my blog](https://www.muhammedalikocabey.com/veri-bilimi/veri-setleri/ilk-veri-setim-populer-windows-uygulamalari/102/) you can browse.
 
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
+-----------------
 
 
+
+&nbsp;
+&nbsp;
 
 
 
 # TR
+
 ## Python Selenium ile Web Sitesinden Veri Çekme(Kazıma)
 ### Microsoft En Popüler Uygulamalar Dataseti Oluşturma
 
+-----------------
 
-*** Bu script Microsoft'un sitesinden en popüler Windows uygulamalarını çekip bir dataset oluşturmak için kullanılmıştır.***
+**Bu script Microsoft'un sitesinden en popüler Windows uygulamalarını çekip bir dataset oluşturmak için kullanılmıştır.**
 
 
 
@@ -52,4 +57,4 @@ App Review Class =     x-screen-reader
 
 Dataset'e ulaşmak ve daha fazlası için [bloğuma](https://www.muhammedalikocabey.com/veri-bilimi/veri-setleri/ilk-veri-setim-populer-windows-uygulamalari/102/) göz atabilirsiniz.
 
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
+-----------------
