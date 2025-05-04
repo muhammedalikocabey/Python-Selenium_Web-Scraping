@@ -19,7 +19,7 @@ App Review Class =     x-screen-reader
 ```
 You can find the element properties that are suitable for the website where you will pull data with the option "Examine".
 
-To reach Dataset and more [my blog](https://www.muhammedalikocabey.com/veri-bilimi/veri-setleri/ilk-veri-setim-populer-windows-uygulamalari/102/) you can browse.
+To reach Dataset and more [my blog]([https://www.muhammedalikocabey.com/veri-bilimi/veri-setleri/ilk-veri-setim-populer-windows-uygulamalari/102/](https://www.muhammedalikocabey.com/veri-bilimi/veri-setleri/my-first-dataset-popular-windows-apps-879/)) you can browse.
 
 -----------------
 
